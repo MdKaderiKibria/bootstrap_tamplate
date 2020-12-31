@@ -15,11 +15,11 @@
 @media(min-width:576px) and (max-width:767.98px){
     h1{
         color: rgb(4, 110, 110);
-        font-size: 18px;
+        font-size: 30px;
     }
     h2{
         color: rgb(150, 44, 44);
-        font-size: 16px;
+        font-size: 22px;
     }
 }
 
@@ -28,11 +28,11 @@
 @media(min-width:768px) and (max-width:991.98px){
     h1{
         color: rgb(15, 97, 49);
-        font-size: 20px;
+        font-size: 35px;
     }
     h2{
         color: rgb(136, 38, 128);
-        font-size: 18px;
+        font-size: 28px;
     }
 }
 
@@ -40,11 +40,11 @@
 @media(min-width:992px) and (max-width:1199.98px){
     h1{
         color: rgb(209, 240, 96);
-        font-size: 22px;
+        font-size: 40px;
     }
     h2{
         color: rgb(54, 12, 12);
-        font-size: 20px;
+        font-size: 30px;
     }
 }
 
@@ -52,11 +52,11 @@
 @media(min-width:1200px) and (max-width:1399.98px){
     h1{
         color: rgb(77, 1, 255);
-        font-size: 24px;
+        font-size: 45px;
     }
     h2{
         color: rgb(138, 101, 0);
-        font-size: 22px;
+        font-size: 35px;
     }
 }
 
@@ -64,11 +64,11 @@
 @media(min-width:1400px) and (max-width:1599.98px){
     h1{
         color: rgb(16, 51, 51);
-        font-size: 25px;
+        font-size: 50px;
     }
     h2{
         color: rgb(255, 0, 0);
-        font-size: 23px;
+        font-size: 40px;
     }
 }
 
@@ -76,11 +76,11 @@
 @media(min-width:1600px) and (max-width:1799.98px){
     h1{
         color: rgb(255, 102, 0);
-        font-size: 26px;
+        font-size: 60px;
     }
     h2{
         color: rgb(82, 4, 78);
-        font-size: 24px;
+        font-size: 45px;
     }
 }
 
@@ -88,10 +88,10 @@
 @media(min-width:1800px){
     h1{
         color: rgb(0, 241, 241);
-        font-size: 28px;
+        font-size: 68px;
     }
     h2{
         color: rgb(255, 139, 139);
-        font-size: 26px;
+        font-size: 56px;
     }
 }
